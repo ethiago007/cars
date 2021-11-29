@@ -3,7 +3,10 @@ h1 {
     color: red;
     font-style: italic;   
 }
-p {color: saddlebrown;
+p  {
+    color: saddlebrown;
    font-family: Arial;
-      
+   }
+li {
+    background-color: sienna;
 }
